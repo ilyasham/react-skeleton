@@ -2,6 +2,10 @@
 
 This project is the fork of [Create React App](https://github.com/facebookincubator/create-react-app).
 
+<a href="https://ibb.co/bH7YWQ">
+<img src="https://preview.ibb.co/jkeQd5/skeleton.jpg" alt="skeleton" border="0">
+</a><br /><a target='_blank' href='https://imgbb.com/'>image upload free direct link</a><br />
+
 ## Libraries In Use
 
 * State Management: [Redux](http://redux.js.org/)
